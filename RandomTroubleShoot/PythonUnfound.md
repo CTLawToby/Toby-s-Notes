@@ -3,12 +3,12 @@
     <li><h2>The Problem</h2></li>
     <ol>
         <li>
-            When I typed <code>python --version</code> in the command prompt, 
-            I received the message:
+            When I typed <code>python --version</code> in the command prompt, \
+            I received the message:\
             <code>Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Apps > Advanced app settings > App execution aliases."</code>
         </li>
         <li>
-            This indicated that the system was not finding my actual Python installation.
+            This indicated that the system was not finding my actual Python installation.\
         </li>
     </ol>
     <li><h2>The Cause</h2></li>
