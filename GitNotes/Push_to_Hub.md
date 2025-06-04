@@ -1,4 +1,4 @@
-<h1>Enable Connection Between Git and GitHub</h1>
+<h1>Simple notes about how to push new change to github</h1>
 <ol>
     <li>
         Save the file you created or edited
@@ -10,6 +10,6 @@
         <code>git commit -m "<em>message</em>"</code>
     </li>
     <li>
-        <code>git push</em>"</code> 
+        <code>git push</code> 
     </li>
 </ol>
