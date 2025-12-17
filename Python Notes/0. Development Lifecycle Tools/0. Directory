@@ -1,59 +1,69 @@
 Development Lifecycle Tools
-├── Development Environment Setup
+├── 1. Development Environment Setup
 │   ├── IDEs and Editors
 │   ├── Virtual Environments
-│   ├── Python Interpreters and Version Managers  ← Best place for the interpreter (e.g., CPython, PyPy, pyenv)
+│   ├── Python Interpreters
 │   ├── Shell and Terminal Tools
 │   └── Environment Configuration
-├── Version Control & Collaboration
+│
+├── 2. Version Control & Collaboration
 │   ├── Version Control Systems
 │   ├── Code Hosting Platforms
 │   ├── Collaboration and Review Tools
 │   └── Branching and Merging Utilities
-├── Dependency Management
+│
+├── 3. Dependency Management
 │   ├── Package Managers
 │   ├── Dependency Resolvers
 │   ├── Lockfile Generators
 │   └── Environment Exporters
-├── Code Quality Assurance
+│
+├── 4. Code Quality Assurance
 │   ├── Linters
 │   ├── Code Formatters
 │   ├── Static Analysis Tools
 │   └── Style Checkers
-├── Testing & Debugging
+│
+├── 5. Testing & Debugging
 │   ├── Testing Frameworks
 │   ├── Assertion Libraries
 │   ├── Debugging Tools
 │   ├── Mocking and Patching
 │   └── Coverage Analysis
-├── Documentation & Knowledge Management
+│
+├── 6. Documentation & Knowledge Management
 │   ├── Documentation Generators
 │   ├── Docstring Tools
 │   ├── Notebook Environments
 │   ├── API Documentation
 │   └── Knowledge Bases and Wikis
-├── Build & Packaging
+│
+├── 7. Build & Packaging
 │   ├── Build Systems
 │   ├── Packaging Standards
 │   ├── Wheel and Distribution Tools
 │   └── Metadata Management
-├── Deployment & Distribution
+│
+├── 8. Deployment & Distribution
 │   ├── Executable Builders
 │   ├── Containerization Tools
 │   ├── CI/CD Integrations
 │   ├── Cloud Deployment Platforms
 │   └── Package Repositories
-├── Monitoring & Maintenance
+│
+├── 9. Monitoring & Maintenance
 │   ├── Logging Libraries
 │   ├── Error Tracking
 │   ├── Performance Monitoring
 │   └── Health Check Tools
-├── Performance Optimization
+│
+├── 10. Performance Optimization
 │   ├── Profilers
 │   ├── Benchmarking Tools
 │   ├── Just-In-Time Compilers
 │   └── Extension Languages
-└── Security & Compliance
+│
+└── 11. Security & Compliance
     ├── Code Vulnerability Scanners (SAST)
     ├── Dependency Vulnerability Checkers (SCA)
     ├── Secret Detection Tools
